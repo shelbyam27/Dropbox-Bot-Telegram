@@ -21,7 +21,9 @@ Sebelum memulai, pastikan sudah menginstal:
 1. **Clone repository ini**:
    ```bash
    git clone https://github.com/shelbyam27/Dropbox-Bot-Telegram.git
-   cd repo-name
+   ```bash
+   cd Dropbox-Bot-Telegram
+   ```bash
    npm install
 2. **Run Program**
    ```bash
