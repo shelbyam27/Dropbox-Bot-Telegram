@@ -1,6 +1,6 @@
 # Telegram Bot untuk Upload ke Dropbox
 
-Proyek ini adalah bot Telegram yang memungkinkan pengguna untuk mengupload file ke Dropbox dengan mudah. Bot ini juga dapat menerima link file untuk diunduh dan di-upload ke Dropbox.
+Projek ini adalah bot Telegram yang memungkinkan pengguna untuk mengupload file ke Dropbox dengan mudah. Bot ini juga dapat menerima link file untuk diunduh dan di-upload ke Dropbox.
 
 ## Fitur
 
@@ -12,7 +12,7 @@ Proyek ini adalah bot Telegram yang memungkinkan pengguna untuk mengupload file 
 ## Prerequisites
 
 Sebelum memulai, pastikan sudah menginstal:
-
+- [Token DropBox](https://www.dropbox.com/developers/apps/) (untuk mengambil token dropbox)
 - [Node.js](https://nodejs.org/) (versi terbaru)
 - [npm](https://www.npmjs.com/) (biasanya sudah terinstal dengan Node.js)
 
